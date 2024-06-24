@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Publications 
-Yikun Wang, Qing Jia*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
+Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
 
