@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAUTO 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200)
 
 Yikun Wang, Qing Jia*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang
 
