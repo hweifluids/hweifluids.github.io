@@ -58,14 +58,18 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 - *2021.06*, First Prize of the 2nd GAC-Honda China Safety Competition, Top-30 projects
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**.
+- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. 
 
 # 💬 Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Experiences
+- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong).
+
+- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote).
+
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China (V-Space, Beijing).
 - *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia), Volkswagen Group China (V-Labs, Beijing).
 - *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia), Volkswagen Group China (Shanghai).
