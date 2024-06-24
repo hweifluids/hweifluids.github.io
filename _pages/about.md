@@ -45,4 +45,6 @@ Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang,
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China (V-Space, Beijing).
+- *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia), Volkswagen Group China (V-Labs, Beijing).
+- *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia), Volkswagen Group China (Shanghai).
