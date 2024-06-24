@@ -65,7 +65,7 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Experiences
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China (V-Space, Beijing).
 - *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia), Volkswagen Group China (V-Labs, Beijing).
 - *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia), Volkswagen Group China (Shanghai).
