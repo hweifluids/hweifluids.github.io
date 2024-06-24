@@ -46,8 +46,8 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 
 
 # 🎖 Honors and Awards
-- *2023.07*, 2023 Outstanding Thesis Undergraduate Student (top #1 in the major)
-- *2022.11*, 2021-2022 Second Class Scholarship for Outstanding Undergraduate Student
+- *2023.07*, Outstanding Thesis Undergraduate Student (top #1 in the major)
+- *2022.11*, Second Class Scholarship for Outstanding Undergraduate Student
 - *2022.09*, Member of champion group of Youth Summit 2022 Competition by Volkswagen Group China
 - *2022.09*, First Prize of the 3rd GAC-Honda China Safety Competition, Top-30 projects
 - *2022.09*, Second place of IDEEA 2022 (International Design and Engineering Education Association, international competition)
