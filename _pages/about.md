@@ -58,14 +58,23 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 - *2021.06*, First Prize of the 2nd GAC-Honda China Safety Competition, Top-30 projects
 
 # 📖 Educations
-- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**.
-- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. 
+
+- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**, Supervisor: Prof. Qing Jia.
+- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**, ME5001 Supervisor: Prof. Mengqi Zhang. 
 
 # 💬 Academic Services
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+-	*2022 - 2023*, **Teaching Assistant**, "Bachelor's Thesis", School of Automobile Studies, Tongji University.
+
+-	*2023 - 2024*, **Journal Peer Reviewer** (7 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
+
+-	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+
+-	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
+
 
 # 💻 Experiences
+
 - *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong).
 
 - *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote).
