@@ -26,7 +26,7 @@ My research interest includes aerodynamics and fluid mechanics. On one hand, I e
 I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://scholar.google.com/citations?user=5szoCzkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# Publications 
+# 📝 Publications 
 Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
