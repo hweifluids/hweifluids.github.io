@@ -27,8 +27,21 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 
 
 # 📝 Publications 
+
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
+
+- Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top, Oral).
+
+- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhoum, Jingmei Dong\*, [Static sitting posture control during writing tasks in idiopathic scoliosis among freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.6).
+
+-	**Huanxia Wei**, [A UAV Target Prediction and Tracking Method Based on KCF and Kalman Filter Hybrid Algorithm](https://doi.org/10.1109/ICCECE54139), *2nd IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE2022)*, 2022. 
+
+-	**Huanxia Wei**, [A Method for Patient Gait Real-time Monitoring based on Powered Exoskeleton and Digital Twin](https://doi.org/10.1117/12.2667794), *2022 Fifth International Conference on Computer Information Science and Artificial Intelligence (CISAI2022)*, 2022.
+
+-	Shiqi Duan\*; Zeyu Jiang; Yucheng Ren; **Huanxia Wei**, [Coordination of Multi-Robot Systems](https://doi.org/10.1109/ICEDCS57360.2022.00086), *International Conference on Electronics and Devices, Computational Science (ICEDCS2022)*, 2022.
+
+-	**Huanxia Wei**, Jinghan Xu, Jun Jiang, Bowen Liang, Qing Jia\*, [Model for Holographic Display in Automotive Smart Cockpit: Interactive Principles, Application Scenarios and Evaluation Methods](https://doi.org/10.1117/12.2667163), *Advanced Fiber Laser Conference (AFL2022)*, 2022.
 
 
 
@@ -48,7 +61,7 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# 💬 Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
