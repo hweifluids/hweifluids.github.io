@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (HKUST) as a research assistant.
+I work at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
-Before joining HKUST, I graduted from CDHAW, Tongji University with a bachelor's degree and honored with outstanding thesis student, under the supervision of Prof. Qing Jia, and serve as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then I graduated from Department of Mechanical Engineering, National University of Singapore with a master's degree with distinction.
+Before joining HKUST, I graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, under the supervision of Prof. Qing Jia, and serve as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then I graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction.
 
 My research interest includes aerodynamics and fluid mechanics. On one hand, I employ DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, I also use commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. I am also extremly interested in experimental fluid mechanics, especially low-speed wind tunnel. Additionally, I am learning about 3D data-driven tools (DMD, POD, SPOD) and coherent structure identification (FTLE).
 
