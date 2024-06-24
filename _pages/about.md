@@ -27,14 +27,22 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 
 
 # 📝 Publications 
-Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
+- Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* 2023 Outstanding Thesis Undergraduate Student (top #1 in the major)
+- *2022.11* 2021-2022 Second Class Scholarship for Outstanding Undergraduate Student
+- *2022.09* Member of champion group of Youth Summit 2022 Competition by Volkswagen Group China
+- *2022.09* First Prize of the 3rd GAC-Honda China Safety Competition, Top-30 projects
+- *2022.09* Second place of IDEEA 2022 (International Design and Engineering Education Association, international competition)
+- *2021.12* Third prize of Final of PWC-IYC National Industry Research Competition (Automotive Industry)
+- *2021.12* Third prize of Shanghai College Students "Creation Cup" Competition
+- *2021.11* National second prize of The National Final of the Fourth Intelligent Manufacturing Competition 2021 Chinese College Students Mechanical Engineering Innovation and Creativity Competition
+- *2021.09* Member of world champion group of IDEEA 2021
+- *2021.06* First Prize of the 2nd GAC-Honda China Safety Competition, Top-30 projects
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
