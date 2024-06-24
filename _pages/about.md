@@ -27,20 +27,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Publications 
+Yikun Wang, Qing Jia*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
+[Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAUTO 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Seal vibrissa-based three-fourths openjet wind tunnel nozzle optimization](https://doi.org/10.1177/09544070231201200)
-
-Yikun Wang, Qing Jia*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
