@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huanxia Wei Academic Homepage"
-description              : "Aerodynamics, Fluid Mechanics, Computational Fluid Mechanics, Wind Tunnel Test. "
+description              : "Fluid Mechanics, Computational Fluid Mechanics, Wind Tunnel Test, Aerodynamics. "
 repository               : "hweifluids/hweifluids.github.io"
 google_scholar_stats_use_cdn : true
 
