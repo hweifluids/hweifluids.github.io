@@ -33,7 +33,7 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 
 - Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top, Oral).
 
-- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static sitting posture control during writing tasks in idiopathic scoliosis among freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.6).
+- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.8).
 
 -	**Huanxia Wei**, [A UAV Target Prediction and Tracking Method Based on KCF and Kalman Filter Hybrid Algorithm](https://doi.org/10.1109/ICCECE54139), *2nd IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE2022)*, 2022. 
 
