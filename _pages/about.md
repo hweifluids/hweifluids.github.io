@@ -29,7 +29,7 @@ I published nothing. I am nobody. (Google Scholar Monitoring <a href='https://sc
 # 📝 Publications 
 
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
-[Seal Vibrissa-based Three-fourths Openjet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
+[Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
 - Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top, Oral).
 
