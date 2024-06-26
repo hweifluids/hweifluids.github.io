@@ -68,7 +68,7 @@ Currently I published nothing. I am nobody. I am now doing my best in academics.
 
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
-- *2023.07*, Outstanding Thesis Undergraduate Student (top #1 in the major)
+- *2023.07*, Outstanding Thesis Undergraduate Student (Top #1 in the major)
 - *2022.11*, Second Class Scholarship for Outstanding Undergraduate Student
 - *2022.09*, Member of champion group of Youth Summit 2022 Competition by Volkswagen Group China
 - *2022.09*, First Prize of the 3rd GAC-Honda China Safety Competition, Top-30 projects
