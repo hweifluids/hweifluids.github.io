@@ -57,9 +57,9 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 💻 Experiences
 
-- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong), supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
+- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
-- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
+- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
 
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China (V-Space, Beijing).
 - *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia), Volkswagen Group China (V-Labs, Beijing).
