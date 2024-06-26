@@ -23,7 +23,7 @@ Before joining HKUST, I graduted from CDHAW, **Tongji** University with a bachel
 
 My research interest includes aerodynamics and fluid mechanics. On one hand, I employ DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, I also use commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. I am also extremly interested in experimental fluid mechanics, especially low-speed wind tunnel. Additionally, I am learning about 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE).
 
-Currently I published nothing. I am nobody. I am now doing my best in academics.
+Currently I published nothing. I am nobody. Although, I am now doing my best in academics.
 
 
 # 📖 Educations
