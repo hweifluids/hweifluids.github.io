@@ -30,12 +30,15 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**, Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
-- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**, ME5001 Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/). 
+
+- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). 
+- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
+
 
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
+
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
