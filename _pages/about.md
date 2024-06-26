@@ -19,7 +19,7 @@ redirect_from:
 
 I work at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
-Before joining HKUST, I graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, under the supervision of Prof. Qing Jia, and serve as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then I graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction.
+Before joining HKUST, I graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, under the supervision of [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), and serve as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then I graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction.
 
 My research interest includes aerodynamics and fluid mechanics. On one hand, I employ DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, I also use commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. I am also extremly interested in experimental fluid mechanics, especially low-speed wind tunnel. Additionally, I am learning about 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE).
 
@@ -30,8 +30,8 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**, Supervisor: Prof. Qing Jia.
-- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**, ME5001 Supervisor: Prof. Mengqi Zhang. 
+- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**, Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
+- *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**, ME5001 Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/). 
 
 
 # 📝 Publications 
@@ -54,9 +54,9 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 💻 Experiences
 
-- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong).
+- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong), supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou#publications).
 
-- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote).
+- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
 
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China (V-Space, Beijing).
 - *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia), Volkswagen Group China (V-Labs, Beijing).
@@ -79,11 +79,12 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 💬 Academic Services
 <span class='anchor' id='-academicservices'></span>
--	*2022 - 2023*, **Teaching Assistant**, "Bachelor's Thesis", School of Automobile Studies, Tongji University.
 
 -	*2023 - 2024*, **Journal Peer Reviewer** (7 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
 
 -	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+
+-	*2023 - 2024*, **Teaching Assistant**, "Bachelor's Thesis", School of Automobile Studies, Tongji University.
 
 -	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
 
