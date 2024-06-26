@@ -48,7 +48,7 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 -	**Huanxia Wei**, [A UAV Target Prediction and Tracking Method Based on KCF and Kalman Filter Hybrid Algorithm](https://doi.org/10.1109/ICCECE54139), *2nd IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE2022)*, 2022. 
 
--	**Huanxia Wei**, [A Method for Patient Gait Real-time Monitoring based on Powered Exoskeleton and Digital Twin](https://doi.org/10.1117/12.2667794), *2022 Fifth International Conference on Computer Information Science and Artificial Intelligence (CISAI2022)*, 2022.
+-	**Huanxia Wei**, [A Method for Patient Gait Real-time Monitoring based on Powered Exoskeleton and Digital Twin](https://doi.org/10.1117/12.2667794), *Fifth International Conference on Computer Information Science and Artificial Intelligence (CISAI2022)*, 2022.
 
 -	Shiqi Duan\*; Zeyu Jiang; Yucheng Ren; **Huanxia Wei**, [Coordination of Multi-Robot Systems](https://doi.org/10.1109/ICEDCS57360.2022.00086), *International Conference on Electronics and Devices, Computational Science (ICEDCS2022)*, 2022.
 
