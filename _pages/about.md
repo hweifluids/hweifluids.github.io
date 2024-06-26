@@ -30,7 +30,7 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**, Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
+- *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**, Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
 - *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**, ME5001 Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/). 
 
 
@@ -54,7 +54,7 @@ I published nothing. I am nobody. Google Scholar Monitoring <a href='https://sch
 
 # 💻 Experiences
 
-- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong), supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou#publications).
+- *2024.05 - Present*, **Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre, The Hong Kong University of Science and Technology (Hong Kong), supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
 - *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center (SAWTC) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
 
