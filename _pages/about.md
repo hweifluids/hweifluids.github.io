@@ -61,7 +61,7 @@ Currently I published nothing. I am nobody. I am now doing my best in academics.
 
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China [VGC](https://volkswagengroupchina.com.cn/en/) (V-Space, Beijing).
 - *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia [ICA](https://www.cardesignnews.com/car-design-awards-china/sponsors/volkswagen-group-innovation-center-asia)), Volkswagen Group China (V-Labs, Beijing).
-- *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia), Volkswagen Group China (Shanghai).
+- *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
 
 # 🎖 Honors and Awards
