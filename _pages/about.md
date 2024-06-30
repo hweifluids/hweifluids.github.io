@@ -66,6 +66,19 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 - *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
 
+# 💬 Academic Services
+<span class='anchor' id='-academicservices'></span>
+
+-	*2023 - 2024*, **Journal Peer Reviewer** (7 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
+
+-	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+
+-	*2023 - 2024*, **Teaching Assistant**, "Bachelor's Thesis", School of Automobile Studies, Tongji University.
+
+-	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
+
+
+
 # 🎖 Honors and Awards
 <span class='anchor' id='-honors-and-awards'></span>
 - *2023.07*, Outstanding Thesis Undergraduate Student (Top #1 in the major)
@@ -78,16 +91,4 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 - *2021.11*, National second prize of The National Final of the Fourth Intelligent Manufacturing Competition 2021 Chinese College Students Mechanical Engineering Innovation and Creativity Competition
 - *2021.09*, Member of world champion group of IDEEA 2021
 - *2021.06*, First Prize of the 2nd GAC-Honda China Safety Competition, Top-30 projects
-
-
-# 💬 Academic Services
-<span class='anchor' id='-academicservices'></span>
-
--	*2023 - 2024*, **Journal Peer Reviewer** (7 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
-
--	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
-
--	*2023 - 2024*, **Teaching Assistant**, "Bachelor's Thesis", School of Automobile Studies, Tongji University.
-
--	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
 
