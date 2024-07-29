@@ -66,7 +66,7 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 
 - *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia [ICA](https://www.cardesignnews.com/car-design-awards-china/sponsors/volkswagen-group-innovation-center-asia)), Volkswagen Group China (V-Labs, Beijing).
 
-- *2022.08 - 2022.10*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
+- *2022.01 - 2022.08*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
 
 # 💬 Academic Services
