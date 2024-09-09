@@ -38,7 +38,7 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 
 - **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Impact of Bogie Configurations on Slipstream and Unsteady Wake Characteristics of a High-Speed Train](), **Preparing** for *Physics of Fluids*, 2024.
 
-- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Metho](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, Oral presented at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
+- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Metho](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
 
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
