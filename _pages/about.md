@@ -38,7 +38,11 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 
 - **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Impact of Bogie Configurations on Slipstream and Unsteady Wake Characteristics of a High-Speed Train](), **Preparing** for *Physics of Fluids*, 2024.
 
-- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Metho](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
+- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *Journal of Power Sources*, 2024.
+
+- Bowen Liang, **Huanxia Wei\***, Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
+
+- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
 
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
