@@ -38,7 +38,7 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 
 - **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Impact of Bogie Configurations on Slipstream and Unsteady Wake Characteristics of a High-Speed Train](), **Preparing** for *Physics of Fluids*, 2024.
 
-- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *Journal of Power Sources*, 2024.
+- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *International Journal of Hydrogen Energy*, 2024.
 
 - Bowen Liang, **Huanxia Wei\***, Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
 
@@ -76,16 +76,15 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 # 💬 Academic Services
 <span class='anchor' id='-academicservices'></span>
 
--	*2024*, **Journal Peer Reviewer**, [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
+-	*2024*, **Journal Peer Reviewer** (2 manuscripts), [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
 
 -	*2023 - 2024*, **Journal Peer Reviewer** (7 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
 
 -	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
 
--	*2023 - 2024*, **Teaching Assistant**, "Bachelor Thesis", School of Automobile Studies, Tongji University.
+-	*2023 - 2024*, **Teaching Assistant**, "Bachelor Thesis" (3 undergraduates), School of Automobile Studies, Tongji University.
 
 -	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
-
 
 
 # 🎖 Honors and Awards
