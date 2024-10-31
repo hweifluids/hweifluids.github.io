@@ -44,7 +44,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *Sustainable Energy, Grids and Networks*, 2024.
 
-- Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach," **Under Review**, *Energy Conversion and Management*.
+- Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach]()," **Under Review**, *Energy Conversion and Management*.
 
 - **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
 
