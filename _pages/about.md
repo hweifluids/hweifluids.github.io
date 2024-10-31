@@ -28,7 +28,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-- **Upcoming:** *2025.09 - 2029.05*, Ph.D. Mechanical Engineering, **University of Manchester**. Research Group: Aerodynamics, Department of MACE (Supervisor: [Prof. Shan Zhong, FRAeS, head of group](https://research.manchester.ac.uk/en/persons/shan.zhong)). 
+- **Upcoming:** *2025.09 - 2029.05*, Ph.D. Mechanical Engineering, **University of Manchester**. Research Group: [Aerodynamics](https://sites.manchester.ac.uk/aerodynamics/research/), Department of MACE (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong), FRAeS, head of group). 
 - *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). [Selected MS Term Papers](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports). 
 - *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
 
