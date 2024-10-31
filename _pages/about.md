@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
+Huanxia works at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
-Before joining HKUST, I graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and serve as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then I graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis.
+Currently, he is also an upcoming PhD student at University of Manchester (**UoM**) in the research group of Aerodynamics, September 2025 intake.
 
-My research interest includes aerodynamics and fluid mechanics. On one hand, I employ DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, I also use commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. I am also extremly interested in experimental fluid mechanics, especially low-speed wind tunnel. Additionally, I am learning about 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE).
+Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis.
 
-Currently I published nothing. I am nobody. Although, I am now doing my best in academics.
+His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-
+- **Upcoming** *2025.09 - 2029.05*, Ph.D. Mechanical Engineering, **University of Manchester**. Research Group: Aerodynamics (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong)). 
 - *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). [Selected MS Term Papers](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports). 
 - *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
 
@@ -36,13 +36,19 @@ Currently I published nothing. I am nobody. Although, I am now doing my best in 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
+- **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Effects of incoming turbulence on aerodynamic characteristics of a high-speed train, Part 1: Aerodynamic Force](), **Preparing** for *Physics of Fluids*, 2024.
+
 - **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Impact of Bogie Configurations on Slipstream and Unsteady Wake Characteristics of a High-Speed Train](), **Preparing** for *Physics of Fluids*, 2024.
 
-- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *International Journal of Hydrogen Energy*, 2024.
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations]()," **Submitted** to *SAE WCX 2025*.
 
-- Bowen Liang, **Huanxia Wei\***, Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
+- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *Sustainable Energy, Grids and Networks*, 2024.
+
+- Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach," **Under Review**, *Energy Conversion and Management*.
 
 - **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
+
+- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
 
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
