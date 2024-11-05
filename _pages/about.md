@@ -84,9 +84,9 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 -	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top #1 Conference in Automobile).
 
--	*2024*, **Journal Peer Reviewer** (2 manuscripts), [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
+-	*2024*, **Journal Peer Reviewer** (3 manuscripts), [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
 
--	*2023 - 2024*, **Journal Peer Reviewer** (8 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
+-	*2023 - 2024*, **Journal Peer Reviewer** (10 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
 
 -	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
 
