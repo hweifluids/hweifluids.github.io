@@ -36,19 +36,19 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
-- **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Effects of incoming turbulence on aerodynamic characteristics of a high-speed train, Part 1: Aerodynamic Force](), **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2024.
+- **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Effects of Incoming Turbulence on Aerodynamic Characteristics of a High-speed Train, Part 1: Aerodynamic Force](), **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2024.
 
 - **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Impact of Bogie Configurations on Slipstream and Unsteady Wake Characteristics of a High-Speed Train](), **Preparing** for *Physics of Fluids*, 2024.
 
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations]()," **Submitted** to *SAE WCX 2025*.
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations]()," **Under Review**, *SAE WCX 2025*.
 
-- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity analysis of fuel cell operating conditions based on LOESS-Sobol method](), **Submitted** to *Sustainable Energy, Grids and Networks*, 2024.
+- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](), **Submitted** to *Sustainable Energy, Grids and Networks*, 2024.
 
 - Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach]()," **Under Review**, *Energy Conversion and Management*.
 
 - **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
 
-- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
+- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
 
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
@@ -81,6 +81,8 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 💬 Academic Services
 <span class='anchor' id='-academicservices'></span>
+
+-	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top #1 Conference in Automobile).
 
 -	*2024*, **Journal Peer Reviewer** (2 manuscripts), [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
 
