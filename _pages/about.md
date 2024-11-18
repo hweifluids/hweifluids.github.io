@@ -36,17 +36,17 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
-- **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Effects of Incoming Turbulence on Aerodynamic Characteristics of a High-speed Train, Part 1: Aerodynamic Force](), **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2024.
+- **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Effects of Incoming Turbulence on Aerodynamic Characteristics of a High-speed Train: Aerodynamic Force](), **Preparing** for *Journal of Wind Engineering and Industrial Aerodynamics*, 2024.
 
 - **Huanxia Wei**, Chao Xia\*, Ting Guo, Zhigang Yang, [Impact of Bogie Configurations on Slipstream and Unsteady Wake Characteristics of a High-Speed Train](), **Preparing** for *Physics of Fluids*, 2024.
 
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations]()," **Under Review**, *SAE WCX 2025*.
+- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](), **Submitted** to *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2024.
 
-- Bowen Liang, Huanxia Wei, Jing Liu, Yuan Gao, Tong Zhang, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](), **Submitted** to *Sustainable Energy, Grids and Networks*, 2024.
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations]()," **Under Review**, *SAE WCX 2025* (Top).
 
 - Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach]()," **Under Review**, *Energy Conversion and Management*.
 
-- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility*, **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024, Hangzhou*, Outstanding Technial Paper Award.
+- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Outstanding Technial Paper Award.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of typical degradation conditions on the output behavior of optimal algorithms for fuel cell hybrid electric vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
 
@@ -70,7 +70,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - *2024.05 - Present*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Chair) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
-- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center ([SAWTC](https://vatlab.tongji.edu.cn/envatlab/main.htm)) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), Supervisor: [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
+- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center ([SAWTC](https://vatlab.tongji.edu.cn/envatlab/main.htm)) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), Supervisor: [Prof. Zhigang Yang](http://www.sstam.org.cn/show.aspx?info_lb=93&flag=88&info_id=298) & [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
 
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China [VGC](https://volkswagengroupchina.com.cn/en/) (V-Space, Beijing).
 
