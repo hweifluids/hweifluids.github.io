@@ -33,6 +33,18 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 - *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
 
 
+# 💻 Experiences
+
+- *2024.05 - Present*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
+
+- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center ([SAWTC](https://vatlab.tongji.edu.cn/envatlab/main.htm)) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), Supervisor: [Prof. Zhigang Yang](https://www.researchgate.net/profile/Zhigang-Yang-5) (Changjiang Chair Professor) & [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
+
+- *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China [VGC](https://volkswagengroupchina.com.cn/en/) (V-Space, Beijing).
+
+- *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia [ICA](https://www.cardesignnews.com/car-design-awards-china/sponsors/volkswagen-group-innovation-center-asia)), Volkswagen Group China (V-Labs, Beijing).
+
+- *2022.01 - 2022.08*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
+
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 
@@ -64,19 +76,6 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 -	Shiqi Duan\*; Zeyu Jiang; Yucheng Ren; **Huanxia Wei**, [Coordination of Multi-Robot Systems](https://doi.org/10.1109/ICEDCS57360.2022.00086), *International Conference on Electronics and Devices, Computational Science (ICEDCS2022)*, 2022.
 
 -	**Huanxia Wei**, Jinghan Xu, Jun Jiang, Bowen Liang, Qing Jia\*, [Model for Holographic Display in Automotive Smart Cockpit: Interactive Principles, Application Scenarios and Evaluation Methods](https://doi.org/10.1117/12.2667163), *Advanced Fiber Laser Conference (AFL2022)*, 2022.
-
-
-# 💻 Experiences
-
-- *2024.05 - Present*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
-
-- *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center ([SAWTC](https://vatlab.tongji.edu.cn/envatlab/main.htm)) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), Supervisor: [Prof. Zhigang Yang](https://www.researchgate.net/profile/Zhigang-Yang-5) (Changjiang Chair Professor) & [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
-
-- *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China [VGC](https://volkswagengroupchina.com.cn/en/) (V-Space, Beijing).
-
-- *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia [ICA](https://www.cardesignnews.com/car-design-awards-china/sponsors/volkswagen-group-innovation-center-asia)), Volkswagen Group China (V-Labs, Beijing).
-
-- *2022.01 - 2022.08*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
 
 # 💬 Academic Services
