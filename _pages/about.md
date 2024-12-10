@@ -19,8 +19,6 @@ redirect_from:
 
 Huanxia works at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
-Currently, he is also an upcoming PhD student at University of Manchester (**UoM**) in the research group of Aerodynamics, September 2025 intake.
-
 Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis.
 
 His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
@@ -28,7 +26,6 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-- **Upcoming:** *2025.09 - 2029.05*, Ph.D. Mechanical Engineering, **University of Manchester**. Research Group: [Aerodynamics](https://sites.manchester.ac.uk/aerodynamics/research/), Department of MACE (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong), FRAeS, head of group). 
 - *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). [Selected MS Term Papers](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports). 
 - *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
 
