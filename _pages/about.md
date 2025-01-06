@@ -32,7 +32,9 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 💻 Experiences
 
-- *2024.05 - Present*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
+- *2025.01 - Presnt*, **Aeroacoustics Scientist**, [TenFong Tech](https://www.tenfong.cn/about).
+
+- *2024.05 - 2025.01*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
 - *2022.07 - Present*, **Research Assistant (Part-Time)**, Shanghai Automotive Wind Tunnel Center ([SAWTC](https://vatlab.tongji.edu.cn/envatlab/main.htm)) & Shanghai Key Lab of Vehicle Aerodynamics and Vehicle Thermal Management System, Tongji University (Shanghai & Remote), Supervisor: [Prof. Zhigang Yang](https://www.researchgate.net/profile/Zhigang-Yang-5) (Changjiang Chair Professor) & [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm).
 
