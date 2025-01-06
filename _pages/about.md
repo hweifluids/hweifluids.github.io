@@ -32,7 +32,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 💻 Experiences
 
-- *2025.01 - Presnt*, **Aeroacoustics Scientist**, [TenFong Tech](https://www.tenfong.cn/about).
+- *2025.01 - Presnt*, **Aeroacoustics Scientist**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
 - *2024.05 - 2025.01*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
