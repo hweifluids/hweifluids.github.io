@@ -31,7 +31,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 
 # 💻 Experiences
-
+<span class='anchor' id='-experiences'></span>
 - *2025.01 - Presnt*, **Aeroacoustics Scientist**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
 - *2024.05 - 2025.01*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
@@ -55,12 +55,12 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf)," **Minor Revision**, *SAE WCX 2025* (Top Conference).
 
-- Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/SobolDRT%20(ECM)%20-%20preprint.pdf)," **Minor Revision**, *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
+- Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/SobolDRT%20(ECM)%20-%20preprint.pdf)," **Accepted**, *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
+
+- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Outstanding Technial Paper Award.
 
 - Yunjie Yu, **Huanxia Wei**, Baojing Zheng\*, Dongfang Tian, Lingli He, 
 [Integrated Dynamic Analysis of Thin-Walled Beams: Coupled Bidirectional Bendong, Torsion, and Axial Vibrations Under Axial Loads](https://www.mdpi.com/2076-3417/14/23/11390/pdf), *Applied Sciences*, 2024 (Q1, IF=2.5).
-
-- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Outstanding Technial Paper Award.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
 
