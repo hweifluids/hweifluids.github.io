@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia works at TenFong Technology (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processors.
+Huanxia works at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processors.
 
 Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
