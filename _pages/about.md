@@ -49,7 +49,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/Writing%20Sample%20-%20HST_Turbulence%20-%20preprint.pdf), **Submitted** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **Submitted** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Under Review**, *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025.
 
