@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia works at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
+Huanxia works at TenFong Technology (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processors.
 
-Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis.
+Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
 His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
@@ -32,7 +32,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 💻 Experiences
 <span class='anchor' id='-experiences'></span>
-- *2025.01 - Present*, **Aeroacoustics Scientist**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
+- *2025.01 - Present*, **Aeroacoustics Engineer**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
 - *2024.05 - 2025.01*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
