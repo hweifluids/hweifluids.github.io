@@ -51,9 +51,11 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/HST_Turbulence_PartOne_Forces.pdf), **Submitted** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
+- Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **Under Review**, *Combustion and Flame*, 2025.
+
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Under Review**, *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025.
 
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf)," **Minor Revision**, *SAE WCX 2025* (Top Conference).
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf)," *SAE WCX 2025* (Top Conference).
 
 - Bowen Liang, **Huanxia Wei**, Yuan Gao\*, Tong Zhang, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T)," *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
