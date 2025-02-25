@@ -53,7 +53,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **Under Review**, *Combustion and Flame*, 2025.
 
-- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025.
+- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
 - Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf)," *SAE WCX 2025* (Top Conference).
 
