@@ -55,11 +55,13 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf)," *SAE WCX 2025* (Top Conference).
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf), *SAE WCX 2025* (Top Conference).
 
-- Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, " [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T)," *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
+- Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T), *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
 - **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper.
+
+- Chundong Jia, Qing Jia, Yikun Wang, Jianyue Zhu\*, Yanlong Li, **Huanxia Wei**, [Research on Passive Turbulence Generator based on 3/4 Open Model Wind Tunnel](https://tjxb.ijournals.cn/jtuns/article/abstract/2024s1017), *Journal of Tongji University (Natural Science Edition)* (EI Journal), 2024.
 
 - Yunjie Yu, **Huanxia Wei**, Baojing Zheng\*, Dongfang Tian, Lingli He, 
 [Integrated Dynamic Analysis of Thin-Walled Beams: Coupled Bidirectional Bendong, Torsion, and Axial Vibrations Under Axial Loads](https://www.mdpi.com/2076-3417/14/23/11390/pdf), *Applied Sciences*, 2024 (Q1, IF=2.5).
