@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia works at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processors.
+Huanxia works at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processing function points.
 
 Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
 
-His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+His research interest includes aerodynamics and fluid mechanics. On one hand, he employs DNS-based high-order spectral element method (SEM), mainly Nek5000, to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
 
 # 📖 Educations
@@ -53,7 +53,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **Under Review**, *Combustion and Flame*, 2025.
 
-- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/LOESS%20(PartD)%20-%20preprint.pdf), **Accepted** by *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
+- Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
 - Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://github.com/hweifluids/hweifluids.github.io/raw/refs/heads/main/files/Preprints/ActvTurbGen%20(SAEWCX)%20-%20preprint.pdf), *SAE WCX 2025* (Top Conference).
 
@@ -106,12 +106,9 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 - *2022.11*, Second Class Scholarship for Outstanding Undergraduate Student, Tongji University
 - *2022.09*, Member of champion group of Youth Summit 2022 Competition by Volkswagen Group China
 - *2022.09*, First Prize of the 3rd GAC-Honda China Safety Competition, Top-30 projects
-- *2022.09*, Second place of IDEEA 2022 (International Design and Engineering Education Association, international competition)
-- *2021.12*, Third prize of Final of PWC-IYC National Industry Research Competition (Automotive Industry)
 - *2021.12*, Third prize of Shanghai College Students "Creation Cup" Competition
 - *2021.11*, National second prize of The National Final of the Fourth Intelligent Manufacturing Competition 2021 Chinese College Students Mechanical Engineering Innovation and Creativity Competition
-- *2021.09*, Member of world champion group of IDEEA 2021
-- *2021.06*, First Prize of the 2nd GAC-Honda China Safety Competition, Top-30 projects
+- *2021.09*, Member of world champion group of IDEEA 2021 (International Design and Engineering Education Association, international competition)
 
 # 🔗 Useful Links FYI
 
