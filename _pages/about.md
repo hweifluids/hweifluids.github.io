@@ -95,7 +95,7 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 -	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
 
--	*2023 - 2024*, **Teaching Assistant**, "Bachelor Thesis" (3 undergraduates), School of Automobile Studies, Tongji University.
+-	*2023 - 2025*, **Teaching Assistant**, "Bachelor Thesis" (4 undergraduates), School of Automobile Studies, Tongji University.
 
 -	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
 
