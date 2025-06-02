@@ -6,11 +6,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Publications"
-    url: "/#-publications"
-
   - title: "Experiences"
     url: "/#-experiences"
+
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Academic Services"
     url: "/#-academicservices"
