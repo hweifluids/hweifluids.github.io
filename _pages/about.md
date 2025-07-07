@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia works at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processing function points.
+Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the School of MACE, University of Manchester (**UoM**) under supervision of Prof. Shan Zhong (FRAeS).
 
-Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (SAWTC). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant.
+Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processing function points.
 
 His research interest includes aerodynamics and fluid mechanics. On one hand, he employs high-order DNS to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+
+His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Chalmers University of Technology (on bluff body and train aerodynamics), NEV research center of Tongji University (hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
 
 # 📖 Educations
@@ -32,6 +34,9 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 # 💻 Experiences
 <span class='anchor' id='-experiences'></span>
+
+- *2025.07 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://sites.manchester.ac.uk/aerodynamics/research/)) at [MACE Aerodynamics Research Group](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports).
+
 - *2025.01 - Present*, **Aeroacoustics Engineer**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
 - *2024.05 - 2025.01*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
@@ -49,9 +54,17 @@ His research interest includes aerodynamics and fluid mechanics. On one hand, he
 
 - **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025.
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train, **Submitted** to *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train, **Revision under review** by *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **Under Review**, *Combustion and Flame*, 2025.
+
+
+
+
+
+
+
+- Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Submitted** to *Measurement*, 2025.
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
