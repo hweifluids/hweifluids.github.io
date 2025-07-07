@@ -61,7 +61,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **Under Review**, *Combustion and Flame*, 2025.
 
-
+- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\***, Yingchao Zhang, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + cruise Configuration, **Under Review**, *Journal of Automotive Engineering (Chinese)*, 2025.
 
 
 
@@ -75,7 +75,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T), *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
-- **Huanxia Wei**, Chundong Jia, Yongwei shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper.
+- **Huanxia Wei**, Chundong Jia, Yongwei Shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper.
 
 - Chundong Jia, Qing Jia, Yikun Wang, Jianyue Zhu\*, Yanlong Li, **Huanxia Wei**, [Research on Passive Turbulence Generator based on 3/4 Open Model Wind Tunnel](https://tjxb.ijournals.cn/jtuns/article/abstract/2024s1017), *Journal of Tongji University (Natural Science Edition)* (EI Journal), 2024.
 
