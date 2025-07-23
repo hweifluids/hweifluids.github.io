@@ -33,7 +33,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 
-
 - *2025.07 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong)) at [MACE Aerodynamics Research Group](https://sites.manchester.ac.uk/aerodynamics/research).
 
 - *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). [Selected MS Term Papers](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports). 
@@ -121,7 +120,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 <span class='anchor' id='-academicservices'></span>
 # 🧑‍🏫 Academic Services
-
 
 -	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top #1 Conference in Automobile).
 
