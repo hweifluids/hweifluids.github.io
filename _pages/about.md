@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the School of MACE, University of Manchester (**UoM**) under supervision of Prof. Shan Zhong (FRAeS).
+Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the School of MACE, University of Manchester (**UoM**) under supervision of Prof. Shan Zhong.
 
-Before joining HKUST, he graduted from CDHAW, **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at The Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA solvers and related post-processing function points.
+Before joining UoM, he graduted from CDHAW of **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA techniques and related post-processing function points.
 
-His research interest includes aerodynamics and fluid mechanics. On one hand, he employs high-order DNS to solve basic fluid mechanics problems, and on the other hand, he also uses commercial CFD tools like Star-CCM+ to simulate engineering cases like automobiles, eVTOLs, and bicycle frameworks. Additionally, he is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
-His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Chalmers University of Technology (on bluff body and train aerodynamics), NEV research center of Tongji University (hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
+His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Chalmers University of Technology (on bluff body and train aerodynamics), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
 
 # 📖 Educations
@@ -52,29 +52,19 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - *2022.01 - 2022.08*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
-# 📝 Publications 
+# 📝 Journal Papers 
 <span class='anchor' id='-publications'></span>
 
-- **Huanxia Wei**, Mengqi Zhang\*, Flow over Dimpled Plate: Unsteady Flow Patterns, Coherent Structures, and Skin Friction Reduction, **Preparing** for *Journal of Fluid Mechanics*, 2025.
-
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train, **Revision under review**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025.
-
-- Menglei Li, Bin An, Mingbo Sun, Peibo Li, **Huanxia Wei**, Jie Sun, Yicun Wang, Huangwei Zhang\*, Supersonic Flame Stabilization in a Composite Combustor with Cavity and Backward-facing Step, **Under review**, *Combustion and Flame*, 2025.
-
+**Under Review**
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + cruise Configuration, **Under review**, *Automotive Engineering (Chinese)*, 2025.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2025.
 
+**Accepted and Published**
 
-
-
-
-
-
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](), **Accepted**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
-
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference).
 
 - Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T), *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
@@ -85,14 +75,21 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 - Yunjie Yu, **Huanxia Wei**, Baojing Zheng\*, Dongfang Tian, Lingli He, 
 [Integrated Dynamic Analysis of Thin-Walled Beams: Coupled Bidirectional Bendong, Torsion, and Axial Vibrations Under Axial Loads](https://www.mdpi.com/2076-3417/14/23/11390/pdf), *Applied Sciences*, 2024 (Q1, IF=2.5).
 
-- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
-
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5).
 
+- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.8).
+
+# 📝 Conference and Invited Talks
+<span class='anchor' id='-conferences'></span>
+
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference).
+
+- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
+
+
 - Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top Conference, Oral).
 
-- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.8).
 
 -	**Huanxia Wei**, [A UAV Target Prediction and Tracking Method Based on KCF and Kalman Filter Hybrid Algorithm](https://doi.org/10.1109/ICCECE54139), *2nd IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE2022)*, 2022. 
 
@@ -101,7 +98,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 -	Shiqi Duan\*; Zeyu Jiang; Yucheng Ren; **Huanxia Wei**, [Coordination of Multi-Robot Systems](https://doi.org/10.1109/ICEDCS57360.2022.00086), *International Conference on Electronics and Devices, Computational Science (ICEDCS2022)*, 2022.
 
 -	**Huanxia Wei**, Jinghan Xu, Jun Jiang, Bowen Liang, Qing Jia\*, [Model for Holographic Display in Automotive Smart Cockpit: Interactive Principles, Application Scenarios and Evaluation Methods](https://doi.org/10.1117/12.2667163), *Advanced Fiber Laser Conference (AFL2022)*, 2022.
-
 
 # 💬 Academic Services
 <span class='anchor' id='-academicservices'></span>
