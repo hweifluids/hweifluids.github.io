@@ -26,8 +26,13 @@ His research interest includes aerodynamics and fluid mechanics. He is familiar 
 His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Chalmers University of Technology (on bluff body and train aerodynamics), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
 
-# 📖 Educations
+
+
+
+
 <span class='anchor' id='-educations'></span>
+# 📖 Educations
+
 
 - *2025.07 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong)) at [MACE Aerodynamics Research Group](https://sites.manchester.ac.uk/aerodynamics/research).
 
@@ -36,9 +41,12 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 - *2019.09 - 2023.06*, B.Eng. Automotive Engineering and Service, **Tongji University**. Thesis: *Design and Research on Turbulence Generation Device for 3/4 Open Jet Wind Tunnel* (Supervisor: [Prof. Yigang Wang](https://auto.tongji.edu.cn/info/1177/6651.htm), [Prof. Qing Jia](https://auto.tongji.edu.cn/info/1147/8261.htm), [Prof. Yanfen Mao](https://cdhaw.tongji.edu.cn/b4/4a/c17706a177226/page.htm)).
 
 
-# 💻 Experiences
-<span class='anchor' id='-experiences'></span>
 
+
+
+
+<span class='anchor' id='-experiences'></span>
+# 💻 Experiences
 
 - *2025.01 - Present*, **Aeroacoustics Engineer**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
@@ -52,8 +60,13 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - *2022.01 - 2022.08*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
-# 📝 Journal Papers 
+
+
+
+
+
 <span class='anchor' id='-publications'></span>
+# 📝 Journal Papers 
 
 **Under Review**
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + cruise Configuration, **Under review**, *Automotive Engineering (Chinese)*, 2025.
@@ -80,8 +93,13 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.8).
 
-# 📝 Conference and Invited Talks
+
+
+
+
+
 <span class='anchor' id='-conferences'></span>
+# 📝 Conference and Invited Talks
 
 - Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference).
 
@@ -115,8 +133,13 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 -	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
 
 
-# 🎖 Honors and Awards
+
+
+
+
 <span class='anchor' id='-honors-and-awards'></span>
+# 🎖 Honors and Awards
+
 - *2023.07*, Outstanding Thesis Undergraduate Student, Tongji University (Top #1 in the major)
 - *2022.11*, Second Class Scholarship for Outstanding Undergraduate Student, Tongji University
 - *2022.09*, Member of champion group of Youth Summit 2022 Competition by Volkswagen Group China
