@@ -99,15 +99,13 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 
 <span class='anchor' id='-conferences'></span>
-# 📝 Conference and Invited Talks
+# 💬 Conference and Invited Talks
 
 - Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference).
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
 
-
 - Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top Conference, Oral).
-
 
 -	**Huanxia Wei**, [A UAV Target Prediction and Tracking Method Based on KCF and Kalman Filter Hybrid Algorithm](https://doi.org/10.1109/ICCECE54139), *2nd IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE2022)*, 2022. 
 
@@ -117,8 +115,13 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 -	**Huanxia Wei**, Jinghan Xu, Jun Jiang, Bowen Liang, Qing Jia\*, [Model for Holographic Display in Automotive Smart Cockpit: Interactive Principles, Application Scenarios and Evaluation Methods](https://doi.org/10.1117/12.2667163), *Advanced Fiber Laser Conference (AFL2022)*, 2022.
 
-# 💬 Academic Services
+
+
+
+
 <span class='anchor' id='-academicservices'></span>
+# 💬 Academic Services
+
 
 -	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top #1 Conference in Automobile).
 
@@ -147,6 +150,10 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 - *2021.12*, Third prize of Shanghai College Students "Creation Cup" Competition
 - *2021.11*, National second prize of The National Final of the Fourth Intelligent Manufacturing Competition 2021 Chinese College Students Mechanical Engineering Innovation and Creativity Competition
 - *2021.09*, Member of world champion group of IDEEA 2021 (International Design and Engineering Education Association, international competition)
+
+
+
+
 
 # 🔗 Useful Links FYI
 
