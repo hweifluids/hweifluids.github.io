@@ -68,9 +68,17 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 # 📝 Journal Papers 
 
 **Under Review**
+
+- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, **Under review**, *Transportation Research Board Annual Meeting*, 2026.
+
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + cruise Configuration, **Under review**, *Automotive Engineering (Chinese)*, 2025.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2025.
+
+- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Under review of revision**, *Archive of Applied Mechanics*, 2025.
+
+- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Submitted to** *Applied Energy*. 2025.
+
 
 **Accepted and Published**
 
