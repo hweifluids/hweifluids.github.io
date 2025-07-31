@@ -79,7 +79,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Submitted to** *Applied Energy*. 2025.
 
-
 **Accepted and Published**
 
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](), **Accepted**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
@@ -135,7 +134,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 -	*2023 - 2024*, **Journal Peer Reviewer** (10 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
 
--	*2023*, **Journal Peer Reviewer**, [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+-	*2023*, **Journal Peer Reviewer** (5 manuscripts), [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
 
 -	*2023 - 2025*, **Teaching Assistant**, "Bachelor Thesis" (4 undergraduates), School of Automobile Studies, Tongji University.
 
