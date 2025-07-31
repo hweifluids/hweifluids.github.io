@@ -134,7 +134,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 -	*2023 - 2024*, **Journal Peer Reviewer** (10 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
 
--	*2023*, **Journal Peer Reviewer** (5 manuscripts), [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+-	*2023 - 2025*, **Journal Peer Reviewer** (5 manuscripts), [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
 
 -	*2023 - 2025*, **Teaching Assistant**, "Bachelor Thesis" (4 undergraduates), School of Automobile Studies, Tongji University.
 
