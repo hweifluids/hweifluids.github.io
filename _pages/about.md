@@ -81,7 +81,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
-- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](), **Accepted**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
+- **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://doi.org/10.1016/j.jweia.2025.106184), *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
