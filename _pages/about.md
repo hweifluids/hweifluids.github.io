@@ -67,6 +67,8 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-publications'></span>
 
 
+# 📝 Journal Papers 
+
 **Under Review**
 
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration, **Under revision review**, *Automotive Engineering (Chinese)*, 2025.
@@ -77,7 +79,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
-# 📝 Journal Papers 
 
 - Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Accepted**, *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
   
