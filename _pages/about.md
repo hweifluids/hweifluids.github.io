@@ -79,7 +79,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 # 📝 Journal Papers 
 
-- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Accepted**, *Archive of Applied Mechanics*, 2025.
+- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Accepted**, *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
   
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://doi.org/10.1016/j.jweia.2025.106184), *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
 
@@ -104,11 +104,11 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-conferences'></span>
 # 💬 Conference and Invited Talks
 
-- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, *Transportation Research Board (TRB) Annual Meeting*, 2026 (Oral by Y.Cao).
+- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, **Accepted** by *Transportation Research Board (TRB) Annual Meeting*, 2026 (Oral by Y.Cao).
   
-- **Huanxia Wei\***, Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang, Planning of Urban Air Mobility Traffic Routes Considering Low Altitude Meteorology: A Perspective of Fensler Geometry, *The Second Conference of Fontiers in Low Altitude Meteorology*, 2025 (Oral, Invited by China Meteorological Administration).
+- **Huanxia Wei\***, Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang, Planning of Urban Air Mobility Traffic Routes Considering Low Altitude Meteorology: A Perspective of Fensler Geometry, *The Second Conference of Fontiers in Low Altitude Meteorology*, 2025 (Oral, Confidential, Invited by China Meteorological Administration).
 
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Publication-only, Top Conference).
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference, Publication-only).
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral by B.Liang).
 
