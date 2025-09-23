@@ -47,7 +47,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-experiences'></span>
 # 💻 Experiences
 
-- *2025.01 - Present*, **Aeroacoustics Engineer**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
+- *2025.01 - 2025.08*, **Aeroacoustics Engineer**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
 - *2024.05 - 2025.01*, **Graduate Research Assistant**, Aerodynamics Acoustics & Noise control Technology Centre ([AANTC](https://aantc.ust.hk/)), The Hong Kong University of Science and Technology (Hong Kong), Supervisor: [Prof. Xin Zhang](https://aantc.ust.hk/profiles/aexzhang/) (Swire Chair Professor) & [Prof. Peng Zhou](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=peng-zhou-pengzhou).
 
@@ -65,22 +65,22 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 
 <span class='anchor' id='-publications'></span>
-# 📝 Journal Papers 
+
 
 **Under Review**
 
-- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, **Under review**, *Transportation Research Board Annual Meeting*, 2026.
-
-- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration, **Under review**, *Automotive Engineering (Chinese)*, 2025.
+- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration, **Under revision review**, *Automotive Engineering (Chinese)*, 2025.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2025.
 
-- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Under review of revision**, *Archive of Applied Mechanics*, 2025.
-
-- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Submitted to** *Applied Energy*. 2025.
+- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Under review** *Applied Energy*. 2025.
 
 **Accepted and Published**
 
+# 📝 Journal Papers 
+
+- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Accepted**, *Archive of Applied Mechanics*, 2025.
+  
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://doi.org/10.1016/j.jweia.2025.106184), *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
@@ -101,17 +101,18 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 
 
-
-
-
 <span class='anchor' id='-conferences'></span>
 # 💬 Conference and Invited Talks
 
-- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference).
+- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, *Transportation Research Board (TRB) Annual Meeting*, 2026 (Oral by Y.Cao).
+  
+- **Huanxia Wei\***, Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang, Planning of Urban Air Mobility Traffic Routes Considering Low Altitude Meteorology: A Perspective of Fensler Geometry, *The Second Conference of Fontiers in Low Altitude Meteorology*, 2025 (Oral, Invited by China Meteorological Administration).
 
-- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral).
+- Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Publication-only, Top Conference).
 
-- Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top Conference, Oral).
+- Bowen Liang, **Huanxia Wei** (co-first author), Yuan Gao, Mengzhu Shen, Tong Zhang, [Impact of Typical Degradation Conditions on the Output Behavior of Optimal Algorithms for Fuel Cell Hybrid Electric Vehicle](https://ieeexplore.ieee.org/document/10738682), *2024 IEEE Transportation Electrification Conference and Expo, Asia-Pacific (ITEC Asia-Pacific)*, 2024 (Oral by B.Liang).
+
+- Bowen Liang, **Huanxia Wei**, Yuan Gao, Tong Zhang\*, [Review of Liquid Hydrogen Leakage: Factors and Safety Measures](https://doi.org/10.1007/978-981-99-8581-4_2), *Proceedings of the 10th Hydrogen Technology Convention (WHTC)*, 2023 (Top Conference, Oral by B.Liang).
 
 -	**Huanxia Wei**, [A UAV Target Prediction and Tracking Method Based on KCF and Kalman Filter Hybrid Algorithm](https://doi.org/10.1109/ICCECE54139), *2nd IEEE International Conference on Consumer Electronics and Computer Engineering (ICCECE2022)*, 2022. 
 
