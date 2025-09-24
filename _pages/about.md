@@ -71,7 +71,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Under Review**
 
-- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-responding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration, **Under revision review**, *Automotive Engineering (Chinese)*, 2025 (invited towards contribution in special issue "Frontiers in Flying Cars").
+- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration, **Under revision review**, *Automotive Engineering (Chinese)*, 2025 (invited towards contribution in special issue "Frontiers in Flying Cars").
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2025.
 
