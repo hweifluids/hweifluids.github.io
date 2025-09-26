@@ -33,7 +33,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 
-- *2025.09 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong)) at [MACE Aerodynamics Research Group](https://sites.manchester.ac.uk/aerodynamics/research).
+- *2025.09 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong) & [Prof. Timothy Craft](https://research.manchester.ac.uk/en/persons/tim.craft/publications/)) at MACE Aerodynamics Research Group.
 
 - *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). [Selected MS Term Papers](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports). 
 
@@ -55,7 +55,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - *2022.10 - 2023.06*, **Lean Management Intern**, Group Components, Volkswagen Group China [VGC](https://volkswagengroupchina.com.cn/en/) (V-Space, Beijing).
 
-- *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia [ICA](https://www.cardesignnews.com/car-design-awards-china/sponsors/volkswagen-group-innovation-center-asia)), Volkswagen Group China (V-Labs, Beijing).
+- *2022.08 - 2022.10*, **Research Intern**, CEO Division (Innovation Center Asia ICA), Volkswagen Group China (V-Labs, Beijing).
 
 - *2022.01 - 2022.08*, **Technical Scouting Intern**, Group R&D China (Innovation Center Asia ICA), Volkswagen Group China (Shanghai).
 
