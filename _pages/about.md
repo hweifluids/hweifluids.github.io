@@ -71,22 +71,21 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Under Review**
 
-- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration, **Under revision review**, *Automotive Engineering (Chinese)*, 2025 (invited towards contribution in special issue "Frontiers in Flying Cars").
-
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2025.
 
 - Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Under review** *Applied Energy*. 2025.
 
 **Accepted and Published**
 
+- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](), **Accepted**, *Automotive Engineering (Chinese)*, 2025 (EI journal, specially invited towards contribution in special issue "Frontiers in Flying Cars").
 
-- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams, **Accepted**, *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
+- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, [Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams](), **Accepted**, *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
   
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://doi.org/10.1016/j.jweia.2025.106184), *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
 
 - Bowen Liang, Jing Liu, Yuan Gao, Tong Zhang, **Huanxia Wei\***, [Sensitivity Analysis of Fuel Cell Operating Conditions based on LOESS-Sobol Method](https://journals.sagepub.com/doi/10.1177/09544070251329546), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2025 (Q3, IF=1.5).
 
-- Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://authors.elsevier.com/c/1kRgPin8Vru2T), *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
+- Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://doi.org/10.1016/j.enconman.2025.119486), *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9).
 
 - **Huanxia Wei**, Chundong Jia, Yongwei Shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper.
 
@@ -130,7 +129,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-academicservices'></span>
 # 🧑‍🏫 Academic Services
 
--	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top #1 Conference in Automobile).
+-	*2025*, **Conference Peer Reviewer** (8 manuscripts), [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/home), (Top Conference in Transportation).
+
+-	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top Conference in Automobile).
 
 -	*2024*, **Journal Peer Reviewer** (3 manuscripts), [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
 
