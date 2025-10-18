@@ -77,9 +77,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
-- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](), **Accepted**, *Automotive Engineering (Chinese)*, 2025 (EI journal, specially invited towards contribution in special issue "Frontiers in Flying Cars").
+- Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](), **Accepted**, *Automotive Engineering (Chinese)*, 2025 (EI journal, invited towards contribution in special issue "Frontiers in Flying Cars").
 
-- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, [Coupled Bidirectional Bending and Torsional Vibrations in Axially Loaded Non-symmetrical Thin-Walled Timoshenko Beams](), **Accepted**, *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
+- Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, [Coupled bidirectional bending and torsional vibrations of axially loaded non-symmetrical thin-walled Timoshenko–Ehrenfest beams](https://link.springer.com/article/10.1007/s00419-025-02952-y), **Accepted**, *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
   
 - **Huanxia Wei**, Chao Xia\*, Qing Jia, Simone Sebben, Zhigang Yang, [Influence of Incoming Turbulence on Aerodynamic Forces of a High-speed Train](https://doi.org/10.1016/j.jweia.2025.106184), *Journal of Wind Engineering and Industrial Aerodynamics*, 2025 (Top Journal, Q1, IF=4.9).
 
@@ -129,15 +129,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-academicservices'></span>
 # 🧑‍🏫 Academic Services
 
--	*2025*, **Conference Peer Reviewer** (8 manuscripts), [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/home), (Top Conference in Transportation).
+-	*2024*, **Journal Peer Reviewer**, Aerospace Science and Technology (**AST**), Physics of Fluids (**POF**), Journal of Renewable and Sustainable Energy (**JRSE**), Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering (**JAUTO**), Automotive Innovation (**AUIN**), Plos One (**PONE**), etc.
 
--	*2024*, **Conference Peer Reviewer** (2 manuscripts), [SAE WCX 2025](https://wcx.sae.org/), (Top Conference in Automobile).
-
--	*2024*, **Journal Peer Reviewer** (3 manuscripts), [Plos One](https://journals.plos.org/plosone), (Q1, IF=2.9).
-
--	*2023 - 2024*, **Journal Peer Reviewer** (10 manuscripts), [Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering](https://journals.sagepub.com/home/pid), (Q3, IF=1.5).
-
--	*2023 - 2025*, **Journal Peer Reviewer** (5 manuscripts), [Automotive Innovation](https://link.springer.com/journal/42154), (Q1, IF=4.8).
+-	*2025*, **Conference Peer Reviewer** , [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/home) (Top Conference in Transportation), [SAE WCX 2025](https://wcx.sae.org/) (Top Conference in Automobile), [SAE ADMMS 2026](https://admms.saeiss.org/), etc.
 
 -	*2023 - 2025*, **Teaching Assistant**, "Bachelor Thesis" (4 undergraduates), School of Automobile Studies, Tongji University.
 
