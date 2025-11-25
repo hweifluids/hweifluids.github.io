@@ -129,7 +129,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-academicservices'></span>
 # 🧑‍🏫 Academic Services
 
--	*2024*, **Journal Peer Reviewer**, Aerospace Science and Technology (**AST**), Physics of Fluids (**POF**), Journal of Renewable and Sustainable Energy (**JRSE**), Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering (**JAUTO**), Automotive Innovation (**AUIN**), Plos One (**PONE**), etc.
+-	*2024*, **Journal Peer Reviewer**, Aerospace Science and Technology (**AST**), Engineering Applications of Computational Fluid Mechanics (**EACFM**), Physics of Fluids (**POF**), Journal of Renewable and Sustainable Energy (**JRSE**), Proceedings of the Institution of Mechanical Engineers Part D: Journal of Automobile Engineering (**JAUTO**), Automotive Innovation (**AUIN**), Journal of Open-Source Software (**JOSS**), Plos One (**PONE**), etc.
 
 -	*2025*, **Conference Peer Reviewer** , [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/home) (Top Conference in Transportation), [SAE WCX 2025](https://wcx.sae.org/) (Top Conference in Automobile), [SAE ADMMS 2026](https://admms.saeiss.org/), etc.
 
