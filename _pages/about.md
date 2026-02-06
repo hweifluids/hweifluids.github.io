@@ -33,7 +33,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
 
-- *2025.09 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong) & [Prof. Timothy Craft](https://research.manchester.ac.uk/en/persons/tim.craft/publications/)) at MACE Aerodynamics Research Group.
+- *2025.09 - 2029.07*, Ph.D. Mechanical Engineering (Experimental Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong) & [Prof. Timothy Craft](https://research.manchester.ac.uk/en/persons/tim.craft/publications/)) at Department of Mechanical and Aerospace Engineering (Aerodynamics Research Group).
 
 - *2023.07 - 2024.07*, M.Sc. Mechanical Engineering, **National University of Singapore**. Thesis: *Numerical Study of Flow Over a Dimpled Plate: Flow Patterns and Skin-Friction Reduction* (Supervisor: [Prof. Mengqi Zhang](https://cde.nus.edu.sg/me/staff/zhang-mengqi/)). [Selected MS Term Papers](https://github.com/hweifluids/hweifluids.github.io/tree/main/files/MS_Reports). 
 
@@ -71,11 +71,21 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Under Review**
 
-- Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method, **Under review**, *Physics of Fluids*, 2026.
+- Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method, **Revision under review**, *Physics of Fluids*, 2026.
+
+- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Under review**, *Urban Climate* (Special Issue: Advanced Measurement and Modeling Techniques for Urban Wind Environment), 2026.
+
+- Shixiong Zhou, Lei Tao, **Huanxia Wei** (co-first author), Winston Yap, Shuai Jia\*, Tian Luan, Benedict Jun Ma, Yicheng Zhang, Changmin Jiang, Yue Cao, Hai Yang, Emergent Capacity of Urban Low-Altitude Airspace Under Evolutionary Operator Strategies, **Under review**, *npj Urban Sustainability*, 2026.
+
+- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Under review**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026.
+
+- Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations, **Under review**, *Results in Engineering*, 2026.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
 - Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Under review**, *Measurement*, 2026.
+
+- Sihan Liu, Lijun Zhang\*, Dejian Meng, Zhehui Zhu, Xiongfei Pi, **Huanxia Wei**, Robust FxLMS Enhancement and Analysis for Active Road Noise Control Systems Considering Non-Coherent Interference, **Under review**, *International Journal of Adaptive Control and Signal Processing*, 2026.
 
 **Accepted and Published**
 
