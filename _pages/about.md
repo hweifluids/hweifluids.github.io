@@ -145,11 +145,13 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 -	*2025*, **Conference Peer Reviewer** , [TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/home) (Top Conference in Transportation), [SAE WCX 2025](https://wcx.sae.org/) (Top Conference in Automobile), [SAE ADMMS 2026](https://admms.saeiss.org/), etc.
 
--	*2023 - 2025*, **Teaching Assistant**, "Bachelor Thesis" (4 undergraduates), School of Automobile Studies, Tongji University.
+-	*2023 - 2025*, **Teaching Assistant**, "Bachelor Thesis (190221)" (4 undergraduates), School of Automobile Studies, Tongji University.
 
--	*2022 - 2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice", School of Automobile Studies, Tongji University.
+-	*2023*, **Teaching Assistant**, "Automotive Competitions: Theory and Practice (190209)", School of Automobile Studies, Tongji University.
 
+-	*2026*, **Teaching Assistant**, "Heat Transfer (MECH30432)", Department of Mechanical and Aerospace Engineering, The University of Manchester.
 
+-	*2026*, **Teaching Assistant**, "Data Acquisition and Experimental Methods (MECH21342)", Department of Mechanical and Aerospace Engineering, The University of Manchester.
 
 
 
