@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the School of MACE, University of Manchester (**UoM**) under supervision of Prof. Shan Zhong.
+Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the University of Manchester (**UoM**) under supervision of Prof. Shan Zhong.
 
 Before joining UoM, he graduted from CDHAW of **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA techniques and related post-processing function points.
 
