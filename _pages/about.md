@@ -73,7 +73,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, [On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method](https://doi.org/10.1063/5.0314603), *Physics of Fluids*, 2026 (Q1, IF=4.3). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/eVTOL_stability_POF.pdf)
 
-- Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), **Being revised**, *Results in Engineering*, 2026 (IF=7.9).
+- Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), *Results in Engineering*, 2026 (IF=7.9).
 
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](https://doi.org/10.19562/j.chinasae.qcgc.2025.11.005), *Automotive Engineering (Chinese)*, 2025 (EI journal, invited towards contribution in special issue "Frontiers in Flying Cars"). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/AutoEng_eVTOL.pdf)
 
