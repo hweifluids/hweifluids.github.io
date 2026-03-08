@@ -73,6 +73,8 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, [On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method](https://doi.org/10.1063/5.0314603), *Physics of Fluids*, 2026 (Q1, IF=4.3). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/eVTOL_stability_POF.pdf)
 
+- Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), **Being revised**, *Results in Engineering*, 2026 (IF=7.9).
+
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](https://doi.org/10.19562/j.chinasae.qcgc.2025.11.005), *Automotive Engineering (Chinese)*, 2025 (EI journal, invited towards contribution in special issue "Frontiers in Flying Cars"). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/AutoEng_eVTOL.pdf)
 
 - Yunjie Yu, Dongfang Tian, **Huanxia Wei\***, Lingli He, Baojing Zheng, [Coupled bidirectional bending and torsional vibrations of axially loaded non-symmetrical thin-walled Timoshenko–Ehrenfest beams](https://link.springer.com/article/10.1007/s00419-025-02952-y), *Archive of Applied Mechanics*, 2025 (Q2, IF=2.5).
@@ -101,9 +103,10 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Under Review**
 
-- Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations, **Being revised**, *Results in Engineering*, 2026.
 
-- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Under review**, *Urban Climate* (Special Issue: Advanced Measurement and Modeling Techniques for Urban Wind Environment), 2026.
+- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Being revised**, *Urban Climate* (Special Issue: Advanced Measurement and Modeling Techniques for Urban Wind Environment), 2026.
+
+- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Being revised**, *Measurement*, 2026.
 
 - Shixiong Zhou, Lei Tao, **Huanxia Wei** (co-first author), Winston Yap, Shuai Jia\*, Tian Luan, Benedict Jun Ma, Yicheng Zhang, Changmin Jiang, Yue Cao, Hai Yang, Emergent Capacity of Urban Low-Altitude Airspace Under Evolutionary Operator Strategies, **Under review**, *npj Urban Sustainability*, 2026.
 
@@ -111,12 +114,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Under review**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [Preprint](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
 
-- Sihan Liu, Lijun Zhang\*, Dejian Meng, Zhehui Zhu, Xiongfei Pi, **Huanxia Wei**, Robust FxLMS Enhancement and Analysis for Active Road Noise Control Systems Considering Non-Coherent Interference, **Under review**, *International Journal of Adaptive Control and Signal Processing*, 2026.
-
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
-- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Under review**, *Measurement*, 2026.
-
+- Sihan Liu, Lijun Zhang\*, Dejian Meng, Zhehui Zhu, Xiongfei Pi, **Huanxia Wei**, Robust FxLMS Enhancement and Analysis for Active Road Noise Control Systems Considering Non-Coherent Interference, **Submitted**, *Results in Engineering*, 2026.
 
 
 
