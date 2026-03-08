@@ -23,7 +23,7 @@ Before joining UoM, he graduted from CDHAW of **Tongji** University with a bache
 
 His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research and beloved **LatticeUrbanWind** LBM-based low-altitude wind field simulation platform. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
-His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Chalmers University of Technology (on bluff body and train aerodynamics), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
+His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
 
 
