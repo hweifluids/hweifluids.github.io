@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the University of Manchester (**UoM**) under supervision of Prof. Shan Zhong.
+Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the University of Manchester (**UoM**) under supervision of Prof. Shan Zhong and Prof. Timothy Craft.
 
 Before joining UoM, he graduted from CDHAW of **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA techniques and related post-processing function points.
 
-His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research and beloved **LatticeUrbanWind** LBM-based low-altitude wind field simulation platform. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
 His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Chalmers University of Technology (on bluff body and train aerodynamics), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
@@ -124,7 +124,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 <span class='anchor' id='-conferences'></span>
 # 💬 Conference and Invited Talks
 
-- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, **Accepted** by *Transportation Research Board (TRB) Annual Meeting*, 2026 (Poster).
+- Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, *Transportation Research Board (TRB) Annual Meeting*, 2026 (Poster).
   
 - **Huanxia Wei\***, Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang, Planning of Urban Air Mobility Traffic Routes Considering Low Altitude Meteorology: A Perspective of Fensler Geometry, *The Second Conference of Fontiers in Low Altitude Meteorology*, 2025 (Oral, Confidential, Invited by China Meteorological Administration).
 
