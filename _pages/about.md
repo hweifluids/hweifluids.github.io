@@ -71,6 +71,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
+
+- Bowen Liang, **Huanxia Wei** (co-first author), Mengzhu Shen, Jida Men, Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Quantifying Operating Stability in Proton Exchange Membrane Fuel Cells from Voltage Measurements: a Lyapunov-Inspired Approach, **Accepted**, *Measurement*, 2026.
+
 - Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, [On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method](https://doi.org/10.1063/5.0314603), *Physics of Fluids*, 2026 (Q1, IF=4.3). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/eVTOL_stability_POF.pdf)
 
 - Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), *Results in Engineering*, 2026 (IF=7.9).
@@ -104,9 +107,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 **Under Review**
 
 
-- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Being revised**, *Urban Climate* (Special Issue: Advanced Measurement and Modeling Techniques for Urban Wind Environment), 2026.
-
-- Bowen Liang, Mengzhu Shen, Jida Men, **Huanxia Wei\*** (co-corresponding), Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Lyapunov-inspired Data-driven Method for Voltage Stability Assessment and Evolution Analysis in Proton Exchange Membrane Fuel Cells, **Being revised**, *Measurement*, 2026.
+- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Revision under review**, *Urban Climate* (Special Issue: Advanced Measurement and Modeling Techniques for Urban Wind Environment), 2026.
 
 - Shixiong Zhou, Lei Tao, **Huanxia Wei** (co-first author), Winston Yap, Shuai Jia\*, Tian Luan, Benedict Jun Ma, Yicheng Zhang, Changmin Jiang, Yue Cao, Hai Yang, Emergent Capacity of Urban Low-Altitude Airspace Under Evolutionary Operator Strategies, **Under review**, *npj Urban Sustainability*, 2026.
 
@@ -116,7 +117,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
-- Sihan Liu, Lijun Zhang\*, Dejian Meng, Zhehui Zhu, Xiongfei Pi, **Huanxia Wei**, Robust FxLMS Enhancement and Analysis for Active Road Noise Control Systems Considering Non-Coherent Interference, **Submitted**, *Results in Engineering*, 2026.
+- Sihan Liu, Lijun Zhang\*, Dejian Meng, Zhehui Zhu, Xiongfei Pi, **Huanxia Wei**, Robust FxLMS Enhancement and Analysis for Active Road Noise Control Systems Considering Non-Coherent Interference, **Under review**, *Results in Engineering*, 2026.
 
 
 
