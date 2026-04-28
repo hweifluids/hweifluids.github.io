@@ -72,9 +72,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 **Accepted and Published**
 
 
-- Bowen Liang, **Huanxia Wei** (co-first author), Mengzhu Shen, Jida Men, Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, Quantifying Operating Stability in Proton Exchange Membrane Fuel Cells from Voltage Measurements: a Lyapunov-Inspired Approach, **Accepted**, *Measurement*, 2026.
+- Bowen Liang, **Huanxia Wei** (co-first author), Mengzhu Shen, Jida Men, Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, [Quantifying Operating Stability in Proton Exchange Membrane Fuel Cells from Voltage Measurements: a Lyapunov-Inspired Approach](https://doi.org/10.1016/j.measurement.2026.121403), *Measurement*, 2026 (Q1, IF=5.6). [PDF](https://www.researchgate.net/publication/403539657_Quantifying_operating_stability_in_proton_exchange_membrane_fuel_cells_from_voltage_measurements_A_Lyapunov-inspired_approach)
 
-- Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, [On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method](https://doi.org/10.1063/5.0314603), *Physics of Fluids*, 2026 (Q1, IF=4.3). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/eVTOL_stability_POF.pdf)
+- Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, [On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method](https://doi.org/10.1063/5.0314603), *Physics of Fluids*, 2026 (Q1, IF=4.3). [PDF](https://www.researchgate.net/publication/400907055_On_the_aerodynamics_of_an_electric_vertical_take-off_and_landing_aircraft_using_lattice_Boltzmann_method)
 
 - Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), *Results in Engineering*, 2026 (IF=7.9).
 
@@ -117,7 +117,10 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
-- Sihan Liu, Lijun Zhang\*, Dejian Meng, Zhehui Zhu, Xiongfei Pi, **Huanxia Wei**, Robust FxLMS Enhancement and Analysis for Active Road Noise Control Systems Considering Non-Coherent Interference, **Under review**, *Results in Engineering*, 2026.
+- Fuqiang Luo, Sichong Huang, Chao Xia, Shuolin Xiao, Qing Jia, Zhigang Yang, **Huanxia Wei\***, Wall-Modeled LES of Flow Past a Circular Cylinder at Re=3900: How Log-Layer Mismatch Biases Hydrodynamics and Flow-Induced Noise Predictions, submitted to *Journal of Ocean Engineering and Science*, 2026.
+
+- Chao Xia, **Huanxia Wei\***, Ting Guo, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on slipstream and wake dynamics of a High-speed Train, submitted to *Journal of Wind Engineering and Industrial Aerodynamics*, 2026.
+
 
 
 
