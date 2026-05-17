@@ -21,7 +21,7 @@ Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the Uni
 
 Before joining UoM, he graduted from CDHAW of **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA techniques and related post-processing function points.
 
-His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **PyFTLE3D** GUI toolbox for LCS research and beloved **LatticeUrbanWind** LBM-based low-altitude wind field simulation platform. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **StreamCenter+** GUI toolbox for ROM and flow instability research and beloved **LatticeUrbanWind** LBM-based low-altitude wind field simulation platform, the open-source version of platform for National Meteorological Information Centre. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
 
 His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
@@ -46,6 +46,8 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 <span class='anchor' id='-experiences'></span>
 # 💻 Experiences
+
+- *2025.06 - Present*, **Model Developer (Part-Time)**, National Meteorological Information Centre of China Meteorological Administration ([CMA](https://www.cma.gov.cn/)).
 
 - *2025.01 - 2025.08*, **Aeroacoustics Engineer**, TenFong Technology (Shenzhen) Co., Ltd ([TenFong](https://www.tenfong.cn/about)).
 
@@ -109,17 +111,17 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Revision under review**, *Urban Climate* (Special Issue: Advanced Measurement and Modeling Techniques for Urban Wind Environment), 2026.
 
-- Shixiong Zhou, Lei Tao, **Huanxia Wei** (co-first author), Winston Yap, Shuai Jia\*, Tian Luan, Benedict Jun Ma, Yicheng Zhang, Changmin Jiang, Yue Cao, Hai Yang, Emergent Capacity of Urban Low-Altitude Airspace Under Evolutionary Operator Strategies, **Under review**, *npj Urban Sustainability*, 2026.
-
 - Shixiong Zhou, **Huanxia Wei** (co-first author), Tian Luan, Shuai Yue, Yue Cao, Fan Yang, Yicheng Zhang, Shuai Jia\*, AdaPhysNet: Physics Gated Probabilistic Trajectory Prediction for Autonomous UAV Delivery in Urban Air Mobility, **Under review**, *IEEE Transactions on Intelligent Transportation Systems*, 2026.
 
-- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Under review**, *IEEE Transactions on Geoscience and Remote Sensing*, 2026. [Preprint](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
+- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Under review**, *Selected Topics in Applied Earth Observations and Remote Sensing*, 2026. [Preprint](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
+
+- Fuqiang Luo, Sichong Huang, Chao Xia, Shuolin Xiao, Qing Jia, Zhigang Yang, **Huanxia Wei\***, Wall-Modeled LES of Flow Past a Circular Cylinder at Re=3900: How Log-Layer Mismatch Biases Hydrodynamics and Flow-Induced Noise Predictions, **Under review**, *Journal of Ocean Engineering and Science*, 2026.
+
+- Chao Xia, **Huanxia Wei\***, Ting Guo, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on slipstream and wake dynamics of a High-speed Train, submitted to *Journal of Wind Engineering and Industrial Aerodynamics*, 2026.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
-- Fuqiang Luo, Sichong Huang, Chao Xia, Shuolin Xiao, Qing Jia, Zhigang Yang, **Huanxia Wei\***, Wall-Modeled LES of Flow Past a Circular Cylinder at Re=3900: How Log-Layer Mismatch Biases Hydrodynamics and Flow-Induced Noise Predictions, submitted to *Journal of Ocean Engineering and Science*, 2026.
-
-- Chao Xia, **Huanxia Wei\***, Ting Guo, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on slipstream and wake dynamics of a High-speed Train, submitted to *Journal of Wind Engineering and Industrial Aerodynamics*, 2026.
+- Shixiong Zhou, Lei Tao, **Huanxia Wei** (co-first author), Winston Yap, Shuai Jia\*, Tian Luan, Benedict Jun Ma, Yicheng Zhang, Changmin Jiang, Yue Cao, Hai Yang, Emergent Capacity of Urban Low-Altitude Airspace Under Evolutionary Operator Strategies, **Under review**, *npj Urban Sustainability*, 2026.
 
 
 
