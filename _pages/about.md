@@ -19,9 +19,9 @@ redirect_from:
 
 Huanxia is an enrolled PhD student at the Aerodynamics Research Group at the University of Manchester (**UoM**) under supervision of Prof. Shan Zhong and Prof. Timothy Craft.
 
-Before joining UoM, he graduted from CDHAW of **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA techniques and related post-processing function points.
+Before joining UoM, he graduated from CDHAW of **Tongji** University with a bachelor's degree and honored with outstanding thesis student, and served as a part-time research assistant at Shanghai Automotive Wind Tunnel Center (**SAWTC**). Then he graduated from Department of Mechanical Engineering, National University of Singapore (**NUS**) with a master's degree with distinction and Grade-A Thesis. He worked at Aerodynamics Acoustics & Noise control Technology Centre (AANTC) of The Hong Kong University of Science and Technology (**HKUST**) as a research assistant, and later worked at TenFong Technology (Shenzhen) Co., Ltd. (**TenFong**) as a research engineer in aerodynamics and aeroacoustics, developing CFD-CAA techniques and related post-processing function points.
 
-His research interest includes aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **StreamCenter+** GUI toolbox for ROM and flow instability research and beloved **LatticeUrbanWind** LBM-based low-altitude wind field simulation platform, the open-source version of platform for National Meteorological Information Centre, and **CoolBoxDNS**, the fastest agent-friendly pseudo-spectral code. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing. 
+His research interests include aerodynamics and fluid mechanics. He is familiar with 3D data-driven tools (DMD, POD, SPOD) and Lagrangian coherent structure identification (by FTLE). He is the sole developer of **StreamCenter+** GUI toolbox for ROM and flow instability research and beloved **LatticeUrbanWind** LBM-based low-altitude wind field simulation platform, the open-source version of platform for National Meteorological Information Centre, and **CoolBoxDNS**, the fastest agent-friendly pseudo-spectral code. On the other hand, he is interested in experimental fluid mechanics, especially low-speed wind tunnel testing.
 
 His long-term cooperating institutes include SAWTC of Tongji University (on eVTOLs and ground vehicles), Transportation college of Tongji University (on low-altitude wind-aware transportation), NEV research center of Tongji University (on hydrogen), National Meteorological Information Centre of China Meteorological Administration (on microscale systems and low-altitude CFD).
 
@@ -31,7 +31,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 
 <span class='anchor' id='-educations'></span>
-# 📖 Educations
+# 📖 Education
 
 - *2025.09 - 2029.07*, Ph.D. Mechanical Engineering (Fluid Mechanics), **The University of Manchester**. Research title: *Characterization of the unsteady flow around bicycle frames* (Supervisor: [Prof. Shan Zhong](https://research.manchester.ac.uk/en/persons/shan.zhong) & [Prof. Timothy Craft](https://research.manchester.ac.uk/en/persons/tim.craft/publications/)) at Department of Mechanical and Aerospace Engineering (Aerodynamics Research Group).
 
@@ -45,7 +45,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 
 <span class='anchor' id='-experiences'></span>
-# 💻 Experiences
+# 💻 Experience
 
 - *2025.06 - Present*, **Model Developer (Part-Time)**, National Meteorological Information Centre of China Meteorological Administration ([CMA](https://www.cma.gov.cn/)).
 
@@ -73,7 +73,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
-- Shixiong Zhou, **Huanxia Wei** (co-first author), Chao Xia, Yingying Xing, Changming Jiang, Hai Yang, Shuai Jia\*, U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility, *Aerospace Science and Technology*, 2026 (Q1, IF=6.4). [PDF](https://arxiv.org/abs/2607.04495)
+- Shixiong Zhou, **Huanxia Wei** (co-first author), Chao Xia, Yingying Xing, Changmin Jiang, Hai Yang, Shuai Jia\*, U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility, *Aerospace Science and Technology*, 2026 (Q1, IF=6.4). [PDF](https://arxiv.org/abs/2607.04495)
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Mengzhu Shen, Jida Men, Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, [Quantifying Operating Stability in Proton Exchange Membrane Fuel Cells from Voltage Measurements: a Lyapunov-Inspired Approach](https://doi.org/10.1016/j.measurement.2026.121403), *Measurement*, 2026 (Q1, IF=5.6). [PDF](https://www.researchgate.net/publication/403539657_Quantifying_operating_stability_in_proton_exchange_membrane_fuel_cells_from_voltage_measurements_A_Lyapunov-inspired_approach)
 
@@ -81,7 +81,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), *Results in Engineering*, 2026 (IF=7.9).
 
-- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, [Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance](https://www.tandfonline.com/doi/full/10.1080/01431161.2026.2724160), *International Journal of Remote Sensing*, 2026. [PDF](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
+- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, [Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance](https://www.tandfonline.com/doi/full/10.1080/01431161.2026.2724160), *International Journal of Remote Sensing*, 2026. [PDF](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
 
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](https://doi.org/10.19562/j.chinasae.qcgc.2025.11.005), *Automotive Engineering (Chinese)*, 2025 (EI journal, invited towards contribution in special issue "Frontiers in Flying Cars"). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/AutoEng_eVTOL.pdf)
 
@@ -93,17 +93,17 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Bowen Liang, **Huanxia Wei**, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Jida Men, [Comprehensive Sensitivity and Mechanistic Analysis of Fuel Cell Performance under Varying Operating Conditions using RF-Sobol-DRT Approach](https://doi.org/10.1016/j.enconman.2025.119486), *Energy Conversion and Management*, 2025 (Top Journal, Q1, IF=9.9). [PDF](https://www.researchgate.net/publication/388605468_Comprehensive_sensitivity_and_mechanism_analysis_of_fuel_cell_performance_under_varying_operating_conditions_using_RF-Sobol-DRT_approach)
 
-- **Huanxia Wei**, Chundong Jia, Yongwei Shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qianggiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper. [PDF](https://www.researchgate.net/publication/385853981_eVTOL_Flys_Through_Atmospheric_Boundary_Layer_Unsteady_Take-Off_and_Landing_Study_via_Spatio-Temporal_Projection_Method)
+- **Huanxia Wei**, Chundong Jia, Yongwei Shi, Qing Jia\*, Chao Xia, Reng Mo, Zhigang Yang, Yanlong Li, Qiangqiang Hu, [eVTOL Flys Through Atmospheric Boundary Layer: Unsteady Take-off and Landing Study via Spatio-Temporal Projection Method](https://doi.org/10.4271/2024-01-7014), **Accepted** by *SAE International Journal of Advances and Current Practices in Mobility* (EI Journal), **Oral Presented** at *SAE Intelligent Urban Air Mobility Symposium 2024*, Best Paper. [PDF](https://www.researchgate.net/publication/385853981_eVTOL_Flys_Through_Atmospheric_Boundary_Layer_Unsteady_Take-Off_and_Landing_Study_via_Spatio-Temporal_Projection_Method)
 
 - Chundong Jia, Qing Jia, Yikun Wang, Jianyue Zhu\*, Yanlong Li, **Huanxia Wei**, [Research on Passive Turbulence Generator based on 3/4 Open Model Wind Tunnel](https://tjxb.ijournals.cn/jtuns/article/abstract/2024s1017), *Journal of Tongji University (Natural Science Edition)* (EI Journal), 2024.
 
 - Yunjie Yu, **Huanxia Wei**, Baojing Zheng\*, Dongfang Tian, Lingli He, 
-[Integrated Dynamic Analysis of Thin-Walled Beams: Coupled Bidirectional Bendong, Torsion, and Axial Vibrations Under Axial Loads](https://www.mdpi.com/2076-3417/14/23/11390/pdf), *Applied Sciences*, 2024 (Q1, IF=2.5).
+[Integrated Dynamic Analysis of Thin-Walled Beams: Coupled Bidirectional Bending, Torsion, and Axial Vibrations Under Axial Loads](https://www.mdpi.com/2076-3417/14/23/11390/pdf), *Applied Sciences*, 2024 (Q1, IF=2.5).
 
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5). [PDF](https://www.researchgate.net/publication/376537471_Seal_vibrissa-based_three-fourths_open-jet_wind_tunnel_nozzle_optimization)
 
-- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.8).
+- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, IF=2.8).
 
 
 **Under Review**
@@ -138,7 +138,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, Balancing the Price of Safety: A Weighted Voronoi Framework for UAM Network Design, *Transportation Research Board (TRB) Annual Meeting*, 2026 (Poster).
   
-- **Huanxia Wei\***, Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang, Planning of Urban Air Mobility Traffic Routes Considering Low Altitude Meteorology: A Perspective of Fensler Geometry, *The Second Conference of Fontiers in Low Altitude Meteorology*, 2025 (Oral, Confidential, Invited by China Meteorological Administration).
+- **Huanxia Wei\***, Yue Cao, Jinghan Xu, Qing Jia, Chao Xia, Zhigang Yang, Planning of Urban Air Mobility Traffic Routes Considering Low Altitude Meteorology: A Perspective of Finsler Geometry, *The Second Conference of Frontiers in Low Altitude Meteorology*, 2025 (Oral, Confidential, Invited by China Meteorological Administration).
 
 - Qing Jia, Lanwei Qin, Civil Zhao, Yikun Wang, Chao Xia, Zhigang Yang, **Huanxia Wei\***, [Impact of Active Turbulence Generation System in 3/4 Open-jet Wind Tunnel: Flow Structures, Shear Layer, and Low-Frequency Fluctuations](https://www.sae.org/publications/technical-papers/content/2025-01-8783), *SAE WCX 2025* (Top Conference, Publication-only).
 
@@ -193,6 +193,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 # 🔗 Useful Links FYI
 
-- Fluids tools: [Compressible Calculator](https://devenport.aoe.vt.edu/aoe3114/calc.html) - [Wall Y+ Calculator](https://www.cfd-online.com/Tools/yplus.php) - [Turbulence Estimations](https://www.cfd-online.com/Tools/turbulence.php) - [Openfoam (ESI)](https://www.openfoam.com) - [Openfoam (Foundation)](https://openfoam.org) - [Nek5000/NekRS](https://nek5000.mcs.anl.gov) - [WRF Model](https://www2.mmm.ucar.edu/wrf/users/download/get_source.html) - [Find CFD Jobs](https://www.cfd-online.com/Jobs/listjobs.php) - [Fluids Journal List (2023 IF to be updated soon, welcome tell me more)](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Fluids_Journals_HWei.pdf).
+- Fluids tools: [Compressible Calculator](https://devenport.aoe.vt.edu/aoe3114/calc.html) - [Wall Y+ Calculator](https://www.cfd-online.com/Tools/yplus.php) - [Turbulence Estimations](https://www.cfd-online.com/Tools/turbulence.php) - [OpenFOAM (ESI)](https://www.openfoam.com) - [OpenFOAM (Foundation)](https://openfoam.org) - [Nek5000/NekRS](https://nek5000.mcs.anl.gov) - [WRF Model](https://www2.mmm.ucar.edu/wrf/users/download/get_source.html) - [Find CFD Jobs](https://www.cfd-online.com/Jobs/listjobs.php) - [Fluids Journal List (2023 IF to be updated soon, welcome tell me more)](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Fluids_Journals_HWei.pdf).
 
 - Blogrolls: [Tongji University](https://www.tongji.edu.cn/eng/) - [National University of Singapore **NUS**](https://nus.edu.sg/) - [The Hong Kong University of Science and Technology **HKUST**](https://hkust.edu.hk/) - [Okinawa Institute of Science and Technology **OIST**, Fluid Mechanics Unit **FMU**](https://groups.oist.jp/fmu) - [Shanghai Automotive Wind Tunnel Center of **Tongji** University **SAWTC**](https://vatlab.tongji.edu.cn/envatlab/main.htm) - [**HKUST** Aerodynamics Acoustics & Noise control Technology Centre **AANTC**](https://aantc.ust.hk/) - [The von Karman Institute for Fluid Dynamics **VKI**](https://www.vki.ac.be/) - [**TUM** Aerodynamics and Fluid Mechanics](https://www.epc.ed.tum.de/en/aer/home/) - [China Aerodynamics Research and Development Center **CARDC**](https://www.cardc.cn/en/) - [SUSTech Group of Prof. XIA](https://phy.sustech.edu.cn/faculty/detail/id/2084.html?lang=zh-cn) - [**Stanford** Center for Turbulence Research **CTR**](https://ctr.stanford.edu/) - [**Princeton** Fundamental and Applied Studies in Turbulence **FAST**](https://fluids.princeton.edu/index.shtml) - [**KTH** FLOW Group](https://www.flow.kth.se/) - [**Imperial** Group of Turbulence, Mixing, and Flow Control](https://www.imperial.ac.uk/tmfc/research/) - [**Cornell** Turbulence](https://www.engineering.cornell.edu/turbulence) - [**Max Planck** Institute, Dynamics of Complex Fluids](https://www.ds.mpg.de/dcf/en) - [**U-Tokyo** Fluids Engineering Laboratory **FEL**](https://www.fel.t.u-tokyo.ac.jp/index_en.html).
