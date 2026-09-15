@@ -81,7 +81,7 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 - Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), *Results in Engineering*, 2026 (IF=7.9).
 
-- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Revision under review**, *International Journal of Remote Sensing*, 2026. [PDF](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
+- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, [Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance](https://www.tandfonline.com/doi/full/10.1080/01431161.2026.2724160), *International Journal of Remote Sensing*, 2026. [PDF](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
 
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](https://doi.org/10.19562/j.chinasae.qcgc.2025.11.005), *Automotive Engineering (Chinese)*, 2025 (EI journal, invited towards contribution in special issue "Frontiers in Flying Cars"). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/AutoEng_eVTOL.pdf)
 
