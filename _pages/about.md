@@ -73,12 +73,15 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
+- Shixiong Zhou, **Huanxia Wei** (co-first author), Chao Xia, Yingying Xing, Changming Jiang, Hai Yang, Shuai Jia\*, U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility, *Aerospace Science and Technology*, 2026 (Q1, IF=6.4). [PDF](https://arxiv.org/abs/2607.04495)
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Mengzhu Shen, Jida Men, Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, [Quantifying Operating Stability in Proton Exchange Membrane Fuel Cells from Voltage Measurements: a Lyapunov-Inspired Approach](https://doi.org/10.1016/j.measurement.2026.121403), *Measurement*, 2026 (Q1, IF=5.6). [PDF](https://www.researchgate.net/publication/403539657_Quantifying_operating_stability_in_proton_exchange_membrane_fuel_cells_from_voltage_measurements_A_Lyapunov-inspired_approach)
 
 - Reng Mo, Quan Zhou, Qing Jia, Chao Xia, **Huanxia Wei\***, Zhigang Yang, [On the Aerodynamics of an Electric Vertical Take-off and Landing Aircraft Using Lattice Boltzmann Method](https://doi.org/10.1063/5.0314603), *Physics of Fluids*, 2026 (Q1, IF=4.3). [PDF](https://www.researchgate.net/publication/400907055_On_the_aerodynamics_of_an_electric_vertical_take-off_and_landing_aircraft_using_lattice_Boltzmann_method)
 
 - Shuangqi Li, Dongfang Tian, Lingli He, **Huanxia Wei\***, [Statistical Analysis of the Permeability of Soil-Rock Mixture Based on the Numerical Manifold Method and Structural Monte Carlo Simulations](https://doi.org/10.1016/j.rineng.2026.109881), *Results in Engineering*, 2026 (IF=7.9).
+
+- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Revision under review**, *International Journal of Remote Sensing*, 2026. [PDF](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
 
 - Qing Jia, Quan Zhou, Chao Xia, Reng Mo, **Huanxia Wei\*** (co-corresponding), Yingchao Zhang\*, Qiangqiang Hu, Zhigang Yang, [Numerical Study on Aerodynamic Characteristics of Electric Vertical Take-off and Landing (eVTOL) Aircraft with Lift + Cruise Configuration](https://doi.org/10.19562/j.chinasae.qcgc.2025.11.005), *Automotive Engineering (Chinese)*, 2025 (EI journal, invited towards contribution in special issue "Frontiers in Flying Cars"). [PDF](https://github.com/hweifluids/hweifluids.github.io/blob/main/files/Preprints/AutoEng_eVTOL.pdf)
 
@@ -103,31 +106,24 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 - Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, If=2.8).
 
 
-
-
-
 **Under Review**
 
 
 - Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Revision under review**, *Developments in the Built Environment*, 2026. [Preprint](https://arxiv.org/abs/2607.04516)
 
-- Shixiong Zhou, **Huanxia Wei** (co-first author), Chao Xia, Yingying Xing, Changming Jiang, Hai Yang, Shuai Jia\*, U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility, **Revision under review**, *Aerospace Science and Technology*, 2026. [Preprint](https://arxiv.org/abs/2607.04495)
+- Lin Wen, **Huanxia Wei**, Yuncong Yu, Qixiang Xu, Xunlai Chen, Yuanzhao Chen, Jiuke Wang\*, Rapid Prediction of 3D Instantaneous Urban Wind Fields Based on Physics Constrained Diffusion Model: A Case Study in Shenzhen, **Under revision**, 2026.
 
-- Tian Luan, Fan Yang, Shixiong Zhou, Lei Tao, Weijun Pan, **Huanxia Wei\***, Farid Melgani, Visible-Infrared Feature Fusion Network with Adaptive Attention for Robust Human Detection in Post-Disaster UAV Surveillance, **Revision under review**, *International Journal of Remote Sensing*, 2026. [Preprint](https://doi.org/10.36227/techrxiv.176972170.07636665/v1)
-
-- Lin Wen, **Huanxia Wei**, Yuncong Yu, Qixiang Xu, Xunlai Chen, Yuanzhao Chen, Jiuke Wang\*, Rapid Prediction of 3D Instantaneous Urban Wind Fields Based on Physics Constrained Diffusion Model: A Case Study in Shenzhen, **Under review**, 2026.
+- Fangwen Hu, **Huanxia Wei**, Shuguang Liu\*, Decheng Zhou, Ying Ning, Shuqing Zhao, Radiant heat governs pedestrian thermal comfort in hot-humid neighbourhoods: Tree shading outperforms transpiration and canopy drag, **Under review**, *Sustainable Cities and Society*, 2026.
 
 - Yue Cao, **Huanxia Wei\***, Chao Xia, Qing Jia, Yingying Xing, Zhigang Yang, Urban Wind Effects on UAV Operations in Building-Dense Low-Altitude Airspace, **Under review**, *Sustainable Cities and Society*, 2026.
 
 - Shixiong Zhou, **Huanxia Wei** (co-first author), Yingying Xing, Changmin Jiang, Hai Yang, Xiaobo Qu, Shuai Jia\*, Who Benefits and Who Bears the Burden? Equity-Aware Vertiport Siting and Policy Design for Advanced Air Mobility, **Under review**, *Transportation Research Part A*, 2026.
 
-- Fangwen Hu, **Huanxia Wei**, Shuguang Liu\*, Decheng Zhou, Ying Ning, Shuqing Zhao, Radiant heat governs pedestrian thermal comfort in hot-humid neighbourhoods: Tree shading outperforms transpiration and canopy drag, **Under review**, *Sustainable Cities and Society*, 2026.
-
 - Shixiong Zhou, **Huanxia Wei** (co-first author), Tian Luan, Shuai Yue, Yue Cao, Fan Yang, Yicheng Zhang, Shuai Jia\*, AdaPhysNet: Physics Gated Probabilistic Trajectory Prediction for Autonomous UAV Delivery in Urban Air Mobility, **Under review**, *IEEE Transactions on Intelligent Transportation Systems*, 2026.
 
-- Fuqiang Luo, Sichong Huang, Chao Xia, Shuolin Xiao, Qing Jia, Zhigang Yang, **Huanxia Wei\***, Wall-Modeled LES of Flow Past a Circular Cylinder at Re=3900: How Log-Layer Mismatch Biases Hydrodynamics and Flow-Induced Noise Predictions, **Under review**, *Journal of Ocean Engineering and Science*, 2026.
+- Fuqiang Luo, Sichong Huang, Chao Xia, Shuolin Xiao, Qing Jia, Zhigang Yang, **Huanxia Wei\***, Wall-Modeled LES of Flow Past a Circular Cylinder at Re=3900: How Log-Layer Mismatch Biases Hydrodynamics and Flow-Induced Noise Predictions, **Under review**, *Ocean Engineering*, 2026.
 
-- Chao Xia, **Huanxia Wei\***, Ting Guo, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on slipstream and wake dynamics of a High-speed Train, **Under review**, *Journal of Wind Engineering and Industrial Aerodynamics*, 2026.
+- Chao Xia, **Huanxia Wei\***, Ting Guo, Qing Jia, Simone Sebben, Zhigang Yang, Influence of Incoming Turbulence on slipstream and wake dynamics of a High-speed Train, **Under review**, *International Journal of Heat and Fluid Flow*, 2026.
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
