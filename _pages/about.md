@@ -73,6 +73,9 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 
 **Accepted and Published**
 
+
+- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, [Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework](https://doi.org/10.1016/j.dibe.2026.101057), *Developments in the Built Environment*, 2026 (Q1, IF=8.7). 
+
 - Shixiong Zhou, **Huanxia Wei** (co-first author), Chao Xia, Yingying Xing, Changmin Jiang, Hai Yang, Shuai Jia\*, U3DWind: A Low Altitude Wind Field Dataset and Benchmark for Urban Air Mobility, *Aerospace Science and Technology*, 2026 (Q1, IF=6.4). [PDF](https://arxiv.org/abs/2607.04495)
 
 - Bowen Liang, **Huanxia Wei** (co-first author), Mengzhu Shen, Jida Men, Yuan Gao\*, Tong Zhang, Chaogang Chen, Heping Liang, [Quantifying Operating Stability in Proton Exchange Membrane Fuel Cells from Voltage Measurements: a Lyapunov-Inspired Approach](https://doi.org/10.1016/j.measurement.2026.121403), *Measurement*, 2026 (Q1, IF=5.6). [PDF](https://www.researchgate.net/publication/403539657_Quantifying_operating_stability_in_proton_exchange_membrane_fuel_cells_from_voltage_measurements_A_Lyapunov-inspired_approach)
@@ -103,21 +106,21 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 - Yikun Wang, Qing Jia\*, Chao Xia, **Huanxia Wei**, Chundong Jia, Zhigang Yang, 
 [Seal Vibrissa-based Three-fourths Open-jet Wind Tunnel Nozzle Optimization](https://doi.org/10.1177/09544070231201200), *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 2023 (Q3, IF=1.5). [PDF](https://www.researchgate.net/publication/376537471_Seal_vibrissa-based_three-fourths_open-jet_wind_tunnel_nozzle_optimization)
 
-- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, IF=2.8).
+<!-- 
+- Qing Xia, Xinpeng Chen, **Huanxia Wei**, Guoliang Zhou, Jingmei Dong\*, [Static Sitting Posture Control during Writing Tasks in Idiopathic Scoliosis among Freshmen](https://doi.org/10.1186%2Fs13018-023-04228-z), *Journal of Orthopaedic Surgery and Research*, 2023 (Q1, IF=2.8). -->
 
 
 **Under Review**
 
 
-- Shuai Han, **Huanxia Wei\***, Yue Cao, Dalin Liu, Lin Weng, Chao Xia, Shuolin Xiao, Qing Jia, Wenguang Liang, Zhigang Yang, Near-real-time, meter-scale 3D urban wind modeling for low-altitude meteorological support: numerical verification of a GPU-accelerated lattice Boltzmann framework, **Revision under review**, *Developments in the Built Environment*, 2026. [Preprint](https://arxiv.org/abs/2607.04516)
 
 - Lin Wen, **Huanxia Wei**, Yuncong Yu, Qixiang Xu, Xunlai Chen, Yuanzhao Chen, Jiuke Wang\*, Rapid Prediction of 3D Instantaneous Urban Wind Fields Based on Physics Constrained Diffusion Model: A Case Study in Shenzhen, **Under revision**, 2026.
 
-- Fangwen Hu, **Huanxia Wei**, Shuguang Liu\*, Decheng Zhou, Ying Ning, Shuqing Zhao, Radiant heat governs pedestrian thermal comfort in hot-humid neighbourhoods: Tree shading outperforms transpiration and canopy drag, **Under review**, *Sustainable Cities and Society*, 2026.
+- Fangwen Hu, **Huanxia Wei**, Shuguang Liu\*, Decheng Zhou, Ying Ning, Shuqing Zhao, Radiant heat governs pedestrian thermal comfort in hot-humid neighbourhoods: Tree shading outperforms transpiration and canopy drag, **Under revision**, *Sustainable Cities and Society*, 2026.
+
+- Shixiong Zhou, **Huanxia Wei** (co-first author), Yingying Xing, Changmin Jiang, Hai Yang, Xiaobo Qu, Shuai Jia\*, Who Benefits and Who Bears the Burden? Equity-Aware Vertiport Siting and Policy Design for Advanced Air Mobility, **Under revision**, *Transportation Research Part A*, 2026.
 
 - Yue Cao, **Huanxia Wei\***, Chao Xia, Qing Jia, Yingying Xing, Zhigang Yang, Urban Wind Effects on UAV Operations in Building-Dense Low-Altitude Airspace, **Under review**, *Sustainable Cities and Society*, 2026.
-
-- Shixiong Zhou, **Huanxia Wei** (co-first author), Yingying Xing, Changmin Jiang, Hai Yang, Xiaobo Qu, Shuai Jia\*, Who Benefits and Who Bears the Burden? Equity-Aware Vertiport Siting and Policy Design for Advanced Air Mobility, **Under review**, *Transportation Research Part A*, 2026.
 
 - Shixiong Zhou, **Huanxia Wei** (co-first author), Tian Luan, Shuai Yue, Yue Cao, Fan Yang, Yicheng Zhang, Shuai Jia\*, AdaPhysNet: Physics Gated Probabilistic Trajectory Prediction for Autonomous UAV Delivery in Urban Air Mobility, **Under review**, *IEEE Transactions on Intelligent Transportation Systems*, 2026.
 
@@ -128,8 +131,6 @@ His long-term cooperating institutes include SAWTC of Tongji University (on eVTO
 - Bowen Liang, **Huanxia Wei** (co-first author), Haoran Liang, Mengzhu Shen, Yuan Gao\*, Tong Zhang, Heping Liang, Balancing Predictive Accuracy and Physical Consistency: An Explainable Machine Learning Framework for Proton Exchange Membrane Fuel Cell Voltage Prediction, **Under review**, *Measurement*, 2026.
 
 - Shixiong Zhou, Lei Tao, **Huanxia Wei** (co-first author), Winston Yap, Shuai Jia\*, Tian Luan, Benedict Jun Ma, Yicheng Zhang, Changmin Jiang, Yue Cao, Hai Yang, Emergent Capacity of Urban Low-Altitude Airspace Under Evolutionary Operator Strategies, **Under review**, *npj Urban Sustainability*, 2026.
-
-
 
 
 
